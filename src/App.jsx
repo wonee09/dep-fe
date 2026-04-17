@@ -29,7 +29,7 @@ function App() {
 
   return (
     <>
-      <p>변경사항입니다.</p>
+      <p>변경사항입니다!</p>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
